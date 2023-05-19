@@ -1,0 +1,20 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.lista {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: #f4b942;
+}
+button {
+  display: block;
+  contain: layout;
+  border-radius: 10px;
+  color: blue;
+}
